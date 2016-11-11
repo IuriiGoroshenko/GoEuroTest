@@ -50,7 +50,6 @@ FOUNDATION_EXTERN void MCLogSuccessMessage(NSString *successMessage) {
 }
 
 #pragma mark - Logging strings
-
 - (void)logErrorMessage:(NSString *)errorMessage {
     NSString *logString = [NSString stringWithFormat:@"🔴 %@🔴", errorMessage];
     [self logString:logString];

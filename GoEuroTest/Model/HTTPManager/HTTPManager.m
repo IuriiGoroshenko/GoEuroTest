@@ -45,7 +45,7 @@
     return [HTTPManager hostName];
 }
 
-#warning URLs return data array, not valid JSON. Is TEMP method for current logic
+#warning URLs return data array, not valid JSON. Its TEMP method for current logic
 - (void)getDataOperationWithURL:(NSString *)url completion:(void (^)(id responseObject, NSError *error))completion {
     NSURL *URL = [NSURL URLWithString:[NSString stringWithFormat:@"%@%@",SERVER_HOST, url]];
     

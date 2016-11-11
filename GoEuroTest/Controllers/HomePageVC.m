@@ -34,7 +34,6 @@ typedef enum : NSUInteger {
 @property (strong, nonatomic) NSArray *buses;
 #warning For fast working better change to NSMutableArray and add by 10 elemets, when scroll will at down
 
-
 @end
 
 @implementation HomePageVC
@@ -151,7 +150,6 @@ typedef enum : NSUInteger {
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     [tableView deselectRowAtIndexPath:indexPath animated:NO];
 }
-
 
 #pragma mark - SegmentedControl
 - (NSArray<UIColor *> *)segmentedControl:(LUNSegmentedControl *)segmentedControl gradientColorsForStateAtIndex:(NSInteger)index {

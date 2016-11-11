@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EF01A68A745F1906ABB7202A57237FD850E14A06",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EF01A68A745F1906ABB7202A57237FD850E14A06" : 9223372036854775807,
+    "A2E7AB20783588AFCCA9536399355689B9F2B622" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DF97003C-3F13-4CFC-AA36-CD19ECF52157",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EF01A68A745F1906ABB7202A57237FD850E14A06" : "GoEuroTest\/",
+    "A2E7AB20783588AFCCA9536399355689B9F2B622" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GoEuroTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GoEuroTest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/DigicodeLtd\/plsplsme_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A2E7AB20783588AFCCA9536399355689B9F2B622"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IuriiGoroshenko\/GoEuroTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF01A68A745F1906ABB7202A57237FD850E14A06"
+    }
+  ]
+}
